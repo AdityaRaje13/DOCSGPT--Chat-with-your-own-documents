@@ -45,7 +45,7 @@ This tool is perfect for **researchers, students, or professionals** who need to
 ---
 
 ## 📂 Project Structure
-
+```
 docsgpt/
 ├── app.py # Main Streamlit application
 ├── htmlTemplates.py # HTML & CSS templates for custom styling
@@ -53,3 +53,4 @@ docsgpt/
 ├── requirements.txt # List of Python dependencies
 ├── README.md # Project documentation
 ├── faiss_index/ # Generated FAISS vector store for embeddings
+```

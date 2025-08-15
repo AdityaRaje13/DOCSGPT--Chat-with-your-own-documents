@@ -1,8 +1,9 @@
 # DOCSGPT--Chat-with-your-own-documents
 
 * Description
-DocsGPT is an interactive web application that allows users to upload PDF documents and ask questions about their content. Powered by AI, it processes uploaded PDFs, extracts text, and provides detailed answers to user queries using natural language processing and vector search. The application features a modern, user-friendly interface with a welcome message, a sidebar for document uploads, and a question-answer display with a thinking animation for a seamless user experience.
-This project is ideal for users who need to extract insights from large documents efficiently, such as researchers, students, or professionals working with text-heavy PDFs.
+
+  DocsGPT is an interactive web application that allows users to upload PDF documents and ask questions about their content. Powered by AI, it processes uploaded PDFs, extracts text, and provides detailed answers   to user queries using natural language processing and vector search. The application features a modern, user-friendly interface with a welcome message, a sidebar for document uploads, and a question-answer        display with a thinking animation for a seamless user experience.
+  This project is ideal for users who need to extract insights from large documents efficiently, such as researchers, students, or professionals working with text-heavy PDFs.
 
 * Technologies Used
 
@@ -47,11 +48,11 @@ View Answers: Questions and answers are displayed clearly, with a thinking anima
 
 * Features
 
-Upload multiple PDFs and extract text for querying.
-Modern UI with a welcome box, styled header with books emoji (📚), and a responsive design.
-Thinking animation during query processing for better user experience.
-Sidebar with PDF upload tips that disappear after document processing.
-Efficient vector search using FAISS for fast and accurate answers.
+1. Upload multiple PDFs and extract text for querying.
+2. Modern UI with a welcome box, styled header with books emoji (📚), and a responsive design.
+3. Thinking animation during query processing for better user experience.
+4. Sidebar with PDF upload tips that disappear after document processing.
+5. Efficient vector search using FAISS for fast and accurate answers.
 
 Project Structure
 docsgpt/
